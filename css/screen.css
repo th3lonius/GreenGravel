@@ -127,7 +127,7 @@ and (min-width: 200px) {
 ----------------------------------------------- */
 
     header {
-        line-height: 1.2;
+        line-height: 1;
         overflow: hidden;
         padding: 20px;
         position: relative;
@@ -173,7 +173,6 @@ and (min-width: 1024px) {
     h1 {
         font-size: 6em;
         font-weight: 500;
-        line-height: 1.1em;
     } 
     
     h2 { font-size: 5em; }
